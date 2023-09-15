@@ -34,3 +34,25 @@ h2{
 img{
     height: 60px;
 }
+.send{
+    display: inline-block;
+}
+.send a{
+    display: block;
+    background-color: red;
+    text-decoration: none;
+    color: white;
+    padding:10px;
+    margin-top: 30px;
+    
+}
+.input {
+    text-align: center;
+}
+.kobayashi{
+    position: absolute;
+    left: 0;
+    margin-top: 20px;
+    width: 350px;
+    height: auto;
+}
